@@ -1,6 +1,6 @@
 # Moonshot
 Multiple view app containing information about Apollo missions.
-It is app from Paul Hudson's 100DaysOfSwiftUI course, all descriptions come from wikipedia
+It is an app included in Paul Hudson's 100DaysOfSwiftUI course, all descriptions come from wikipedia
 
 Main app view with two visibility views: grid (on the picture) and a list view : 1st picture
 
